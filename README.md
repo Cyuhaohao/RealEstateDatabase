@@ -34,13 +34,13 @@ and input the corresponding number
 
 ## Structure of Project
 
-   $ DataBaseAssignment
-    ├── venv
-    ├── create.py
-    ├── insert_data.py
-    ├── operate_data.py
-    ├── query_data.py
-    ├── README.md
-    ├── requirements.txt
-    └── unit_test.py
+      $ DataBaseAssignment
+       ├── venv
+       ├── create.py
+       ├── insert_data.py
+       ├── operate_data.py
+       ├── query_data.py
+       ├── README.md
+       ├── requirements.txt
+       └── unit_test.py
 
